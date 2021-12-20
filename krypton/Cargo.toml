@@ -1,0 +1,14 @@
+[package]
+name = "krypton"
+version = "0.1.0"
+edition = "2021"
+authors = ["edencreeper <teol@btinternet.com>"]
+license-file = "../LICENSE"
+description = "The app for krypton"
+readme = "README.md"
+repository = "https://github.com/kryptonapp/krypton"
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
